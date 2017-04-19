@@ -1,0 +1,12 @@
+{% extends 'base.html' %}
+{% block content %}
+<ul>
+  {% for status in statuses %}
+  <li>
+    <div class="container">
+      {% include 'box.html' %}
+    </div>
+  </li>
+  {% endfor %}
+</ul>
+{% endblock %}

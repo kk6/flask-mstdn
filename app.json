@@ -1,0 +1,6 @@
+{
+  "client_id": "XXXXXXXXXX",
+  "client_secret": "YYYYYYYYYY",
+  "id": 0000000000,
+  "redirect_uri": "http://127.0.0.1:5000/callback"
+}
